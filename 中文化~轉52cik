@@ -1,0 +1,15 @@
+// == UserScript ==
+// @name GitHub漢化插件
+// @description漢化GitHub界面的部分菜單及內容。
+// @copyright 2016，樓教主（http://www.52cik.com/）
+// @icon https://assets-cdn.github.com/pinned-octocat.svg
+// @版本 1.6.4
+// @author樓教主
+// @license MIT
+// @homepageURL https://github.com/52cik/github-hans
+// @match http：//*.github.com/*
+// @match https：//*.github.com/*
+// @require https://52cik.github.io/github-hans/locals.js?v1.6.4
+// @ run-at document-end
+// @grant none
+// == / UserScript ==
